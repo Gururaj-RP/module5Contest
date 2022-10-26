@@ -1,0 +1,1192 @@
+.bg {
+    position: absolute;
+    width: 1440px;
+    height: 831px;
+    left: 0px;
+    top: 0px;
+
+    background: url("./Rectangle\ 1.png");
+}
+
+.logo {
+    position: absolute;
+    width: 42px;
+    height: 28px;
+    left: 114.69px;
+    top: 73px;
+
+}
+
+.sal {
+    position: absolute;
+    width: 39px;
+    height: 11px;
+    left: 162.69px;
+    top: 82px;
+
+    background: #FFFFFF;
+    border: 1px solid #BDBDBD;
+
+}
+
+ul {
+    display: inline;
+    /* float: left; */
+}
+
+/* a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+} */
+
+
+
+#h1 {
+    position: absolute;
+    width: 47px;
+    height: 16px;
+    left: 670px;
+    top: 71px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 106.5%;
+    /* identical to box height, or 16px */
+
+
+    color: #FBB034;
+
+}
+
+#a1 {
+    position: absolute;
+    width: 71px;
+    height: 16px;
+    left: 767px;
+    top: 71px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 106.5%;
+    /* identical to box height, or 16px */
+
+
+    color: #FFFFFF;
+
+
+
+
+}
+
+#s1 {
+    position: absolute;
+    width: 66px;
+    height: 16px;
+    left: 888px;
+    top: 71px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 106.5%;
+    /* identical to box height, or 16px */
+
+
+    color: #FFFFFF;
+}
+
+#c1 {
+    position: absolute;
+    width: 63px;
+    height: 16px;
+    left: 1004px;
+    top: 71px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 106.5%;
+    /* identical to box height, or 16px */
+
+
+    color: #FFFFFF;
+
+
+}
+
+#b1 {
+    width: 76px;
+    height: 16px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 106.5%;
+    /* identical to box height, or 16px */
+
+
+    color: #000000;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+
+#b1 button {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 18px 53px;
+    gap: 10px;
+
+    position: absolute;
+    width: 182px;
+    height: 52px;
+    left: 1168px;
+    top: 53px;
+
+    background: #FBB034;
+
+}
+
+.chop {
+    position: absolute;
+    width: 155px;
+    height: 17px;
+    left: 115px;
+    top: 342px;
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 106.5%;
+    /* identical to box height, or 17px */
+
+
+    color: #FBB034;
+
+}
+
+.chop2 {
+    position: absolute;
+    width: 513px;
+    height: 90px;
+    left: 115px;
+    top: 381px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 94.5%;
+    /* or 45px */
+
+
+    color: #FFFFFF;
+
+}
+
+.chop3 {
+    position: absolute;
+    width: 389px;
+    height: 66px;
+    left: 115px;
+    top: 493px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 106.5%;
+    /* or 22px */
+
+
+    color: #9A9A9A;
+
+
+}
+
+.btn {
+    width: 76px;
+    height: 16px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 106.5%;
+    /* identical to box height, or 16px */
+
+
+    color: #000000;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.btn button {
+    /* component1 */
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 18px 53px;
+    gap: 10px;
+
+    position: absolute;
+    width: 182px;
+    height: 52px;
+    left: 115px;
+    top: 639px;
+
+    background: #FBB034;
+}
+
+.btn1 button {
+    position: absolute;
+    width: 1440px;
+    height: 831px;
+    left: 0px;
+    top: 0px;
+
+    background: url(.jpg), #000000;
+}
+
+.btn1 button {
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 182px;
+    height: 53px;
+    left: 337px;
+    top: 639px;
+
+    border: 1px solid #FFFFFF;
+
+}
+
+
+
+.btn1 button {
+    position: absolute;
+    padding: 18px 53px;
+    width: 182px;
+    height: 52px;
+    left: 383px;
+    top: 641px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 106.5%;
+    color: #FFFFFF;
+    /* identical to box height, or 16px */
+
+
+    color: #FFFFFF;
+}
+
+.img {
+    position: absolute;
+    width: 720px;
+    height: 625px;
+    left: 720px;
+    top: 206px;
+
+    background: url("./image\ 2.png");
+}
+
+/* About Us CSS */
+.bg1 {
+    position: absolute;
+    width: 1440px;
+    height: 676px;
+    left: 0px;
+    top: 831px;
+
+    background: url("./WE\ ARE\ OPEN\ 1.png");
+}
+
+.image1 {
+
+    position: absolute;
+    width: 161px;
+    height: 118px;
+    left: 437px;
+    top: 931px;
+
+    background: url("./unsplash_ZPRBeg7Lsh0.png");
+}
+
+.image2 {
+    position: absolute;
+    border: solid white;
+    margin-left: -221px;
+    border-width: 15px;
+    width: 214px;
+    height: 292px;
+    left: 598px;
+    top: 1101px;
+    background: url(./unsplash_wJoB8D3hnzc.png);
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+/* .imagebor {
+    position: absolute;
+    width: 245px;
+    height: 320px;
+    left: 369px;
+    top: 1087px;
+
+    background: #FFFFFF;
+} */
+
+.image3 {
+    position: absolute;
+    width: 188px;
+    height: 282px;
+    left: 223px;
+    top: 931px;
+
+    background: url("./unsplash_wJoB8D3hnzc\ \(2\).png");
+}
+
+#about1 {
+    position: absolute;
+    width: 70px;
+    height: 19px;
+    left: 767px;
+    top: 986px;
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 106.5%;
+    /* or 19px */
+
+
+    color: #FBB034;
+}
+
+.aboutinside {
+    position: absolute;
+    width: 223px;
+    height: 60px;
+    left: 609px;
+    top: 1027px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 94.5%;
+    /* or 60px */
+
+
+    color: #EDEDED;
+}
+
+.component2 {
+    display: flex;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 18px 44px;
+    gap: 10px;
+    position: absolute;
+    width: 86px;
+    height: 21px;
+    left: 767px;
+    top: 1232px;
+    background: #FBB034;
+}
+
+.component2 component2text {
+    width: 82px;
+    height: 16px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 106.5%;
+    /* identical to box height, or 16px */
+
+
+    color: #000000;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+#haircut {
+    position: absolute;
+    width: 451px;
+    height: 90px;
+    left: 767px;
+    top: 1029px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 94.5%;
+    /* or 45px */
+
+
+    color: #000000;
+
+}
+
+#job {
+
+    position: absolute;
+    width: 401px;
+    height: 57px;
+    left: 767px;
+    top: 1132px;
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 106.5%;
+    /* or 19px */
+
+
+    color: #565656;
+
+
+}
+
+/* Book Now CSS */
+.bookbg {
+    position: absolute;
+    width: 1440px;
+    height: 510px;
+    left: 0px;
+    top: 1507px;
+
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.66), rgba(0, 0, 0, 0.66)), url("./Rectangle\ 7.png");
+    filter: blur(3px);
+}
+
+.booknow {
+    position: absolute;
+    width: 79px;
+    height: 19px;
+    left: 118px;
+    top: 1637px;
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 106.5%;
+    /* or 19px */
+
+
+    color: #FBB034;
+
+}
+
+.bookAppointment {
+    position: absolute;
+    width: 586px;
+    height: 90px;
+    left: 115px;
+    top: 1668px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 94.5%;
+    /* or 45px */
+
+
+    color: #FFFFFF;
+
+}
+
+.discount {
+    position: absolute;
+    width: 339px;
+    height: 38px;
+    left: 118px;
+    top: 1786px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 94.5%;
+    /* or 19px */
+
+
+    color: #B8B8B8;
+
+}
+
+.rectangle {
+    position: absolute;
+    width: 320px;
+    height: 283px;
+    left: 929px;
+    top: 1621px;
+
+    background: #FFFFFF;
+}
+
+.Ellipse {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 1039px;
+    top: 1682px;
+
+    background: #E8E8E8;
+}
+
+.callnow {
+    position: absolute;
+    width: 90px;
+    height: 19px;
+    left: 1044px;
+    top: 1793px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 94.5%;
+    /* identical to box height, or 19px */
+
+
+    color: #B8B8B8;
+}
+
+.number {
+    position: absolute;
+    width: 161px;
+    height: 23px;
+    left: 1009px;
+    top: 1820px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 94.5%;
+    /* identical to box height, or 23px */
+
+
+    color: #000000;
+}
+
+.Vector {
+    position: absolute;
+    left: 74.44%;
+    right: 23.19%;
+    top: 33.5%;
+    bottom: 65.67%;
+
+    background: #FBB034;
+}
+
+.Component3 {
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+    align-items: flex-start;
+    padding: 18px 26px;
+    gap: 10px;
+    text-align: center;
+    position: absolute;
+    width: 159px;
+    height: 26px;
+    left: 118px;
+    top: 1852px;
+    background: #FBB034;
+}
+
+.Appointment {
+    width: 145px;
+    height: 16px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 106.5%;
+    /* identical to box height, or 16px */
+
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+
+/* Working Day CSS */
+
+.working_day_bg {
+    position: absolute;
+    width: 1134px;
+    height: 393px;
+    left: 153px;
+    top: 2107px;
+
+    background: #FBB034;
+}
+
+.working_day_image {
+    position: absolute;
+    width: 573px;
+    height: 393px;
+    left: 153px;
+    top: 2107px;
+
+    background: url("./unsplash_MUdB4YzDeKA.png");
+}
+
+.working_day_text1 {
+    position: absolute;
+    width: 255px;
+    height: 30px;
+    left: 791px;
+    top: 2167px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 94.5%;
+    /* or 30px */
+
+
+    color: #FFFFFF;
+
+}
+
+.working_day_text2 {
+    position: absolute;
+    width: 294px;
+    height: 19px;
+    left: 772px;
+    top: 2202px;
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 106.5%;
+    /* or 19px */
+
+
+    color: #000000;
+}
+
+.working_day_text3 {
+    position: absolute;
+    width: 68px;
+    height: 15px;
+    left: 772px;
+    top: 2256px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 94.5%;
+    /* or 15px */
+
+
+    color: #FFFFFF;
+
+}
+
+.working_day_text4 {
+    position: absolute;
+    width: 85px;
+    height: 12px;
+    left: 1050px;
+    top: 2258px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 94.5%;
+    /* or 12px */
+
+
+    color: #000000;
+
+}
+
+.working_day_text4line {
+    position: absolute;
+    width: 367px;
+    height: 0px;
+    left: 772px;
+    top: 2276px;
+
+    border: 1px dashed #000000;
+}
+
+.working_day_text5 {
+    position: absolute;
+    width: 53px;
+    height: 15px;
+    left: 772px;
+    top: 2317px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 94.5%;
+    /* or 15px */
+
+
+    color: #FFFFFF;
+
+}
+
+.working_day_text6 {
+    position: absolute;
+    width: 85px;
+    height: 12px;
+    left: 1050px;
+    top: 2321px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 94.5%;
+    /* or 12px */
+
+
+    color: #000000;
+
+}
+
+.working_day_text6line {
+
+    position: absolute;
+    width: 367px;
+    height: 0px;
+    left: 772px;
+    top: 2340px;
+
+    border: 1px dashed #000000;
+
+}
+
+.rectanglebox {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 166px;
+    height: 39px;
+    left: 772px;
+    top: 2375px;
+
+    border: 1px solid #000000;
+}
+
+.rectangleboxtext {
+    position: absolute;
+    width: 79px;
+    height: 19px;
+    left: 816px;
+    top: 2385px;
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 106.5%;
+    /* or 19px */
+
+
+    color: #000000;
+
+
+}
+
+.working_day_text {
+    position: absolute;
+    width: 300px;
+    height: 68px;
+    left: 880px;
+    top: 2143px;
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 106.5%;
+    /* or 68px */
+
+
+    color: rgba(236, 236, 236, 0.1);
+
+}
+
+/* Testimonials CSS */
+.Testimonialstext1 {
+    position: absolute;
+    width: 91px;
+    height: 19px;
+    left: 120px;
+    top: 2604px;
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 106.5%;
+    /* or 19px */
+
+
+    color: #FBB034;
+}
+
+.Testimonialstext2 {
+    position: absolute;
+    width: 420px;
+    height: 68px;
+    left: 245px;
+    top: 2589px;
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 106.5%;
+    /* or 68px */
+
+
+    color: #ECECEC;
+}
+
+.Testimonialstext3 {
+    position: absolute;
+    width: 419px;
+    height: 90px;
+    left: 117px;
+    top: 2639px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 94.5%;
+    /* or 45px */
+
+
+    color: #000000;
+
+}
+
+.Testimonialstext4 {
+    position: absolute;
+    width: 401px;
+    height: 57px;
+    left: 120px;
+    top: 2745px;
+
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 106.5%;
+    /* or 19px */
+
+
+    color: #ABABAB;
+
+}
+
+.Testimonialbox {
+    position: absolute;
+    width: 320px;
+    height: 285px;
+    left: 615px;
+    top: 2604px;
+
+    background: #FFFFFF;
+    box-shadow: 9px 25px 10px rgba(0, 0, 0, 0.01), 5px 14px 9px rgba(0, 0, 0, 0.05), 2px 6px 6px rgba(0, 0, 0, 0.09), 1px 2px 4px rgba(0, 0, 0, 0.1), 0px 0px 0px rgba(0, 0, 0, 0.1);
+}
+
+.Testimonialboximage {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 735px;
+    top: 2644px;
+
+    background: url("./Ellipse\ 2.png"), #E8E8E8;
+
+}
+
+.TestimonialboximageText {
+    position: absolute;
+    width: 256px;
+    height: 42px;
+    left: 647px;
+    top: 2746px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 106.5%;
+    /* or 14px */
+
+
+    color: #C2C2C2;
+
+}
+
+/*
+.TestimonialStar1{
+    position: absolute;
+left: 49.79%;
+right: 48.82%;
+top: 54.91%;
+bottom: 44.62%;
+
+background: #FBB034;
+}
+.TestimonialStar2{
+    position: absolute;
+left: 51.46%;
+right: 47.15%;
+top: 54.91%;
+bottom: 44.62%;
+
+background: #FBB034;
+}
+.TestimonialStar3{
+    position: absolute;
+    left: 53.12%;
+    right: 45.49%;
+    top: 54.91%;
+    bottom: 44.62%;
+    
+    background: #FBB034;
+    
+}
+.TestimonialStar4{
+    position: absolute;
+    left: 54.79%;
+    right: 43.82%;
+    top: 54.91%;
+    bottom: 44.62%;
+    
+    background: #CECECE;
+}
+.TestimonialStar5{
+    position: absolute;
+    left: 56.46%;
+    right: 42.15%;
+    top: 54.91%;
+    bottom: 44.62%;
+    
+    background: #CECECE;
+/* 
+.TestimonialboximageText{
+    position: absolute;
+left: 50.28%;
+right: 42.64%;
+top: 55.48%;
+bottom: 44.13%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 106.5%;
+/* or 16px */
+
+
+/* color: #000000; */
+
+/*  */
+.Testimonialbox2 {
+    position: absolute;
+    width: 320px;
+    height: 285px;
+    left: 1003px;
+    top: 2604px;
+
+    background: #FFFFFF;
+    box-shadow: 9px 25px 10px rgba(0, 0, 0, 0.01), 5px 14px 9px rgba(0, 0, 0, 0.05), 2px 6px 6px rgba(0, 0, 0, 0.09), 1px 2px 4px rgba(0, 0, 0, 0.1), 0px 0px 0px rgba(0, 0, 0, 0.1);
+}
+.Testimonialboximage2{
+    position: absolute;
+    padding: 18px 53px;
+    width: 182px;
+    height: 52px;
+    left: 383px;
+    top: 641px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 106.5%;
+    color: #FFFFFF;
+    /* identical to box height, or 16px */
+
+
+    /* color: #FFFFFF; */
+
+}
+.TestimonialboxBGimage2{
+    position: absolute;
+width: 158px;
+height: 116px;
+left: 1084px;
+top: 2688px;
+
+background: url("./noun-quotation-mark-376075\ 2.png");
+}
+.TestimonialboximageText2{
+    position: absolute;
+width: 256px;
+height: 42px;
+left: 1035px;
+top: 2744px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 106.5%;
+/* or 14px */
+
+
+color: #C2C2C2;
+
+}
+.TestimonialStar1{
+    position: absolute;
+left: 76.74%;
+right: 21.88%;
+top: 54.91%;
+bottom: 44.62%;
+
+background: url("./Vector.png"), #FBB034;
+}
+.Testimonialbox2Name{
+    position: absolute;
+    left: 77.57%;
+    right: 16.04%;
+    top: 55.48%;
+    bottom: 44.13%;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 106.5%;
+    /* or 16px */
+    
+    
+    color: #000000;
+    
+}
+.reviewbox{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 18px 53px;
+gap: 10px;
+
+position: absolute;
+width: 208px;
+height: 52px;
+left: 120px;
+top: 2837px;
+
+background: #FBB034;
+align-items: center;
+}
+.reviewBoxText{
+    width: 102px;
+    height: 16px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 106.5%;
+    /* identical to box height, or 16px */
+    
+    
+    color: #000000;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;   
+}
+/* Our service CSS */
+.serviceBG{
+    position: absolute;
+width: 1440px;
+height: 894px;
+left: 0px;
+top: 3070px;
+
+background: url("./our\ services.png");
+}
+/* Affiliate CSS*/
+. {
+    position: absolute;
+width: 1440px;
+height: 493px;
+left: 0px;
+top: 4060px;
+
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(.jpg);
+}
